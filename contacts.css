@@ -1,0 +1,30 @@
+img {
+    width: 400px;
+    height: 300px;
+} 
+h1 {
+    font-family: cursive;
+    color: purple;
+    font-style: italic;
+}
+h2{
+    color: purple;
+}
+h3 {
+    color: teal;
+    font-size: 30px;
+}
+p {
+    color: orange;
+    font-family: fantasy;
+    font-size: 40px;
+} 
+body {
+    background-color: pink;
+}
+p:hover{
+ color: black;
+}
+h3:hover{
+    color: red;
+}

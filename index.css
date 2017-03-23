@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+img {
+    width: 400px;
+    height: 300px;
+} 
+h1 {
+    font-family: cursive;
+    color: yellow;
+    font-style: italic;
+}
+h2 {
+    font-family: 'Jim Nightshade', cursive;
+}
+
+p {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    font-family: 'Jim Nightshade', cursive;
+}
+#violetHeader {
+    font-size: 24px;
+    color: black;
+    font-family: fantasy;
+}
+body {
+    background-color: green;
+}

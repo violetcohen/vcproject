@@ -1,0 +1,29 @@
+img {
+    width: 400px;
+    height: 300px;
+} 
+h1 {
+    font-family: cursive;
+    color: yellow;
+    font-style: italic;
+}
+h1:hover{
+    color: black;
+}
+h2 {
+    color: purple;
+}
+h2:hover{
+    color: white;
+}
+p {
+    color: blue;
+    font-family: fantasy;
+    font-size: 30px;
+} 
+body {
+    background-color: gray;
+}
+p:hover{
+ color: green;
+}
